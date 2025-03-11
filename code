@@ -1,3 +1,10 @@
 print ("welcome to to the taxinomical classification of felines")
 print (" 1 cat\n 2 flat headed cat\n 3 sand cat\n 4 pallas cat \n 5 margay")
 print ("please select one by entering the number next to it")
+
+class mammalia:
+    def __init__(self):
+        self.attributemammalia = "they are vertebrate animals in which the young are nourished with milk from special mammary glands of the mother"
+class Carnivora:
+    def __init__(self):
+        self.attributeCarnivora = "it eats mostly meat, or the flesh of animals"
