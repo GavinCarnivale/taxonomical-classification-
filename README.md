@@ -1,1 +1,1 @@
-# taxonomical-classification-
+In this code, it shows the different taxinomical classificatiosn of each cat, it doesnt show and subclasses (ex Sub order). In this code there are 5 different spieces of cats, and 7 different breeds to choose from. it is over 600 lines long so for the sake of my sanity I did not put comments on repeated code that I already commented 
