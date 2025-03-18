@@ -48,9 +48,9 @@ print("welcome to cat Classification, select one of the cats below, some are dif
 while True:
     print("\n   enter the number next to the cat")
     print ("1.Chartreux 2.Pallas Cat 3.Flatheaded Cat 4.Sand Cat 5.Margay 6.sphynx cat 7.Bengal cat 8.siamese cat 9.Bombay Cat 10.savannah cat 11.Korat 12.burmese cat")
-    input0 = input()
+    input0 = input()      # takes user imput
     if input0 == '1':
-        print(cat.attributeAnamilia)         # this prints the different attribute of the cat
+        print(cat.attributeAnamilia)         # this prints the different attributes of the cat
         print(cat.attributesChordata)
         print(cat.attributesCarnivora)
         print(cat.attributesFelidae)
@@ -59,7 +59,7 @@ while True:
         print("""
               
                                                                                                     
-                                    ████                           ████  ██                         
+                                    ████                           ████  ██                      #ascii art og the cats   
                                   █████████                       ████   ██                         
                                   ███  █████                     ████    ██                         
                                  ██      █████                ██████     ███                        
